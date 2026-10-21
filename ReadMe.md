@@ -1,6 +1,12 @@
 # Marak Squires
 ### Software Created by Marak Squires Has Been Downloaded **BILLIONS** of Times on npm
 
+
+
+https://github.com/user-attachments/assets/40a23c51-9519-478c-beaf-508cb63ba6b5
+
+
+
 **Original author / key early contributor** of foundational Node.js packages including:  
 - [colors.js](https://github.com/Marak/colors.js) (get colors in your Node.js console) — **~700+ million downloads in 2026 alone**, ~27 million weekly, hundreds of millions annually for years, cumulative **billions**.
 - [faker.js](https://npm-stat.com/charts.html?package=faker&from=2010-10-15&to=2026-10-15) (generate massive amounts of fake data) — **original package still receiving ~6 million downloads per week**. Downloads have spiked in recent years due to community fork not being good. The original package continues to see strong usage despite no updates.  
