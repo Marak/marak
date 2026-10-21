@@ -3,8 +3,9 @@
 
 
 
-https://github.com/user-attachments/assets/40a23c51-9519-478c-beaf-508cb63ba6b5
-
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/40a23c51-9519-478c-beaf-508cb63ba6b5" autoplay loop muted playsinline width="640"></video>
+</p>
 
 
 **Original author / key early contributor** of foundational Node.js packages including:  
