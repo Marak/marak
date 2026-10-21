@@ -1,20 +1,21 @@
 # Marak Squires
 ### Software Created by Marak Squires Has Been Downloaded **BILLIONS** of Times on npm
 
-> **Original author / key early contributor** of foundational Node.js packages including:  
-> - **`colors`** (get colors in your Node.js console) — **~700+ million downloads in 2026 alone**, ~27 million weekly, hundreds of millions annually for years, cumulative **billions**.
-> - **`faker.js`** (generate massive amounts of fake data) — **original package still receiving ~6 million downloads per week**. Downloads have spiked in recent years due to community fork not being good. The original package continues to see strong usage despite no updates.  
-> - **`http-server`** (simple zero-config static HTTP server) — original Nodejitsu-era project with Marak as early contributor; millions of monthly downloads, **billions** cumulative.  
-> - **`http-proxy`** / `node-http-proxy` (full-featured HTTP reverse proxy) — original Nodejitsu project (copyright includes Marak Squires); millions of weekly downloads historically, **billions** cumulative.
+**Original author / key early contributor** of foundational Node.js packages including:  
+- [colors.js](https://github.com/Marak/colors.js) (get colors in your Node.js console) — **~700+ million downloads in 2026 alone**, ~27 million weekly, hundreds of millions annually for years, cumulative **billions**.
+- [faker.js](https://npm-stat.com/charts.html?package=faker&from=2010-10-15&to=2026-10-15) (generate massive amounts of fake data) — **original package still receiving ~6 million downloads per week**. Downloads have spiked in recent years due to community fork not being good. The original package continues to see strong usage despite no updates.  
+- [http-server](https://github.com/http-party/http-server) (simple zero-config static HTTP server) — original Nodejitsu-era project (copyright includes Marak Squires); millions of monthly downloads, **billions** cumulative.  
+- [http-proxy](https://github.com/http-party/node-http-proxy) / `node-http-proxy` (full-featured HTTP reverse proxy) — original Nodejitsu project  Marak as first contributor millions of weekly downloads historically, **billions** cumulative.
 
 These packages (and related tooling) power development workflows, CLIs, testing pipelines, and production systems across Fortune 500 companies and the broader JavaScript ecosystem. Combined, software Marak created or co-created has reached **billions of npm downloads**.
 
-### faker.js download trend
+### colors.js and faker.js download trends
+
+![colors.js npm downloads](https://img.shields.io/npm/dw/colors?label=colors%20weekly%20downloads&color=blue)
+
 The original `faker` package continues to see strong adoption, including recent spikes:
 
 ![faker.js npm downloads](https://img.shields.io/npm/dw/faker?label=faker%20weekly%20downloads&color=blue)
-[View detailed graphs on npmtrends](https://npmtrends.com/faker) · [npm-stat.com/faker](https://npm-stat.com/charts.html?package=faker)
-
 ---
 
 ## Largest Achievements
